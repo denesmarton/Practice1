@@ -18,7 +18,11 @@ public class Car {
 		  this.mileage = mileage;
 		  this.fuelTankCapacity = fuelTankCapacity;
 		  this.currentSpeed = 0.0;
+<<<<<<< HEAD
 		  this.currentFuelLevel = 2.0;
+=======
+		  this.currentFuelLevel = 0.0;
+>>>>>>> 7ebd3c5b29579f0620c4bfee1946ff96323a77d1
 		  this.currentDirection = "NORTH";
 		  this.odometer = 0.0;
 		  this.travelLog = new StringBuilder();
